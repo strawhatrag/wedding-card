@@ -7,7 +7,7 @@ body {
 .top-container {
   height: 400px;
   width: 100%;
-  background-color: #fff;
+  background-image: url("rings.jpg");
   margin-top: 0;
 }
 h1 {
