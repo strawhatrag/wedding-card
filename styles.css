@@ -3,15 +3,3 @@ body {
   background-color: #ffb4b4;
   margin: 10%;
 }
-.image {
-  height: 1246px;
-  width: 934px;
-}
-.front {
-  position: relative;
-  top: 150px;
-  left: 150px;
-}
-.back {
-  position: absolute;
-}
