@@ -5,7 +5,7 @@ body {
   font-family: "Sacramento", cursive;
 }
 .top-container {
-  height: 600px;
+  height: 400px;
   width: 100%;
   background-color: #fff;
   margin-top: 0;
@@ -21,6 +21,5 @@ h1 {
 }
 .gif {
   margin: auto;
-
   width: 100%;
 }
