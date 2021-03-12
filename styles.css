@@ -1,20 +1,21 @@
 body {
   background-color: #fff;
-  margin: 0;
   text-align: center;
   font-family: "Sacramento", cursive;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-image: url("rings.jpg");
 }
 .top-container {
   height: 400px;
   width: 100%;
-  background-image: url("rings.jpg");
   margin-top: 0;
 }
 h1 {
   color: aqua;
   font-size: 900%;
   font-style: italic;
-  margin-top: 200px;
 }
 .image {
   text-align: center;
