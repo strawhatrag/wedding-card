@@ -2,8 +2,8 @@ body {
   background-color: #fff;
   text-align: center;
   font-family: "Sacramento", cursive;
-  padding: 0;
-  margin: 0;
+  padding: 5%;
+
   background-image: url("rings.jpg");
   background-size: contain;
 }
@@ -18,7 +18,7 @@ h1 {
   color: #ff9a10;
   font-size: 900%;
   font-style: italic;
-  margin-top: 0;
+  margin-top: 20px;
   margin-top: 50px;
 }
 
@@ -27,8 +27,9 @@ h1 {
 }
 
 .gif {
-  margin: auto;
+
   width: 100%;
   border-radius: 0%;
-  margin: 0;
+  margin-top:60px;
+  border-radius: 10%;
 }
