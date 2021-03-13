@@ -2,10 +2,10 @@ body {
   background-color: #fff;
   text-align: center;
   font-family: "Sacramento", cursive;
-  padding: 5%;
+  padding: 0;
   margin: 0;
-  background-color: #FEE715FF;
- 
+  background-image: url("rings.jpg");
+  background-size: contain;
 }
 
 .top-container {
@@ -29,6 +29,6 @@ h1 {
 .gif {
   margin: auto;
   width: 100%;
-  border-radius: 20%;
-  margin: 60px auto auto;
+  border-radius: 0%;
+  margin: 0;
 }
